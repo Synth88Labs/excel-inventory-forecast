@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Excel / temp lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Tool output
+*_reorder.csv
+*_reorder.xlsx
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
