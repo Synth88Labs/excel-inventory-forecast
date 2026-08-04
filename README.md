@@ -11,6 +11,9 @@ service level.
 Built for the operational question templates never answer: *"how low do I let this SKU
 get before I reorder — without stocking out or over-ordering?"*
 
+> 📖 **New here?** Read the full step-by-step guide:
+> [Reorder Point & Safety Stock in Excel](https://excelguru.io/tutorials/reorder-point-safety-stock-in-excel/) on ExcelGuru.io.
+
 ## The formulas (industry-standard)
 
 ```
